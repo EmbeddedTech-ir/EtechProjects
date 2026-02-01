@@ -1,0 +1,9 @@
+101.pcm    It is already the maximum volume
+102.pcm    It is already the minimum volume
+103.pcm    I am here
+104.pcm    please go ahead
+105.pcm    what can I do for you
+106.pcm    please call me if necessary
+107.pcm    Hello, Embedded Tech
+108.pcm    Lighting is turned on for you
+109.pcm    ok
