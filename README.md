@@ -19,7 +19,7 @@ testing, and teaching the use of products and modules available in the  **[Embed
 | Project Name | Short Description | Main Hardware | Link |
 |-------------|-------------------|---------------|------|
 | FanAndLight | control fan and light using voice | Ai Thinker VC-02 | [`FanAndLight`](./VC-02/FanAndLight) |
-
+| LidarHeatMap | Displaying distance as a matrix | VL53L7CX | [`LidarHeatMap`](./VL53L7CX/HeatMap) |
 
 > Each project folder contains:
 > - source code
